@@ -51,3 +51,6 @@ alias grsh!='git reset --hard'
 alias gst='git stash'
 alias gstp='git stash pop'
 alias gstl='git stash list'
+
+# open current folder in terminal
+alias explorer="explorer.exe ."
